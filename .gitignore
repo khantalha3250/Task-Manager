@@ -1,0 +1,61 @@
+##################################
+# General
+##################################
+.DS_Store
+Thumbs.db
+*.log
+
+##################################
+# Node.js
+##################################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+##################################
+# Build Outputs
+##################################
+dist/
+build/
+
+##################################
+# Next.js (Frontend)
+##################################
+.next/
+out/
+.vercel/
+
+##################################
+# Environment Files (IMPORTANT)
+##################################
+.env
+.env.*
+!.env.example
+.env.local
+
+##################################
+# Prisma
+##################################
+# Prisma generated files
+prisma/dev.db
+prisma/dev.db-journal
+
+
+
+# Prisma migration lock (keep migrations, ignore lock)
+prisma/migrations/*/migration_lock.toml
+
+##################################
+# IDE / Editor
+##################################
+.vscode/
+.idea/
+*.swp
+*.swo
+
+##################################
+# OS
+##################################
+.DS_Store
+Thumbs.db
