@@ -113,7 +113,7 @@ NEXT_PUBLIC_API_URL=http://localhost:4000
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/khantalha3250/Task-Manager.git
 ```
 
 ---
